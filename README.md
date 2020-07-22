@@ -9,6 +9,7 @@
 
 ## Parts:
 - Arduino nano
-- RTC
+- RTC DS3231
 - Dalas temperature sensor
 - CAN driver
+- OLED display - SH1106
