@@ -1,2 +1,14 @@
 # Scooter_display
-OLED display with comunication to siliXcon controller
+
+## Show on display:
+- Actual time
+- Temperature
+- LYNX power map
+- Battery percentage
+
+
+## Parts:
+- Arduino nano
+- RTC
+- Dalas temperature sensor
+- CAN driver
